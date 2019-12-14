@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SONY_DEMO.iml" filepath="$PROJECT_DIR$/.idea/SONY_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sony/.idea/Sony.iml" filepath="$PROJECT_DIR$/../Sony/.idea/Sony.iml" />
+    </modules>
+  </component>
+</project>
